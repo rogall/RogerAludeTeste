@@ -1,0 +1,20 @@
+{
+  "name": "alude",
+  "version": "1.0.0",
+  "description": "test floats stack",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app_tests.js",
+    "test": "node app_tests.js"
+  },
+  "keywords": [
+    "test",
+    "floats",
+    "stack"
+  ],
+  "author": "Roger Teixeira",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
